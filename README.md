@@ -1,4 +1,8 @@
 # Sakura Succubus 2 Vita
+<p align="center">
+  <img src="https://i.ibb.co/pLzcKyk/H2x1-NSwitch-DS-Sakura-Succubus2.jpg" />
+</p>
+
 Port of Sakura Succubus 2 for PSVita
 
 ## Description
