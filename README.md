@@ -23,3 +23,7 @@ Here's the quickest way to set the game on your Vita:
 7. Last step: copy the `game` folder from the original PC game to `ux0:/app/RNPYSS002/`
 
 Created using [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/renpy-vita/releases/tag/v1.0)
+
+## 📚 Practical Wiki
+
+The [GitHub Wiki](https://github.com/SilverCrow2323/Sakura-Succubus-2-Vita/wiki) covers VitaShell installation, the original `game/` folder path and troubleshooting. The tracked source is in [wiki-source/](wiki-source/); publish reviewed pages with `sh tools/publish_wiki.sh`.
